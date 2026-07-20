@@ -1,0 +1,22 @@
+{
+  "name": "Madhava Prasad — Software Engineer",
+  "short_name": "Madhava Prasad",
+  "description": "Portfolio of Madhava Prasad, Software Engineer & AI Agent Developer.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#b30047",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
