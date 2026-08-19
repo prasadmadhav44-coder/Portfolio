@@ -6,7 +6,7 @@ function AboutMe() {
   const facts = [
     { icon: MapPin, label: 'Location', value: 'Thiruvarur, India' },
     { icon: GraduationCap, label: 'Education', value: 'B.Tech, ECE — SASTRA University' },
-    { icon: Sparkles, label: 'Focus', value: 'Multi-agent LLM systems & full-stack web' },
+    { icon: Sparkles, label: 'Focus', value: 'Software Engineering & Full-Stack Development' },
   ];
 
   return (
@@ -122,18 +122,7 @@ function AboutMe() {
                 LLM applications, REST API design, and modern web development.
               </p>
 
-              <p className="text-base md:text-lg">
-                I've built and deployed production-grade systems using Python, Flask,
-                Google ADK, React.js, Node.js, and MongoDB — including an AI-powered
-                multi-agent financial analyst and a full-stack e-commerce platform.
-              </p>
-
-              <p className="text-base md:text-lg">
-                Certified in MERN stack development, frontend technologies (React,
-                TypeScript, Next.js), backend engineering (Node.js, Express.js,
-                MongoDB, AWS), AI agents, and data analytics. Currently seeking roles
-                in full-stack software engineering.
-              </p>
+              
             </motion.div>
           </motion.div>
         </div>

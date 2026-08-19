@@ -107,20 +107,10 @@ function Hero() {
           className="text-lg sm:text-xl md:text-2xl lg:text-3xl mb-4 font-light leading-relaxed"
           style={{ color: 'var(--color-muted)' }}
         >
-          Software Engineer &bull; AI Agent Developer &bull; Full Stack Developer
+          Software Engineer &bull; Full Stack Developer
         </motion.p>
 
-        <motion.p
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.5, delay: 0.8, ease: [0.22, 1, 0.36, 1] }}
-          className="text-sm sm:text-base md:text-lg mb-10 max-w-2xl mx-auto"
-          style={{ color: 'var(--color-muted)' }}
-        >
-          Building multi-agent LLM systems, REST APIs, and full-stack products with
-          Python, React and Node.js.
-        </motion.p>
-
+        
         {/* Decorative line */}
         <motion.div
           initial={{ scaleX: 0 }}
